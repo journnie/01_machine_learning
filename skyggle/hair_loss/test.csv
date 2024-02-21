@@ -1,0 +1,81 @@
+stay_up_late,pressure_level,coffee_consumed,brain_working_duration,stress_level,swimming,hair_washing,dandruff
+0,High,0,7,High,No,Y,Many
+3,Medium,3,10,Medium,No,N,Few
+2,Low,1,2,Low,No,N,None
+0,Low,0,2,Low,No,Y,None
+1,Low,0,2,Low,No,N,None
+2,Low,0,2,Low,Yes,Y,None
+4,Medium,3,8,Low,No,N,Few
+1,Low,0,2,Low,Yes,Y,None
+4,Medium,3,8,Low,No,N,Few
+2,Low,1,2,Low,No,N,None
+2,Low,0,2,Low,No,N,None
+4,Very High,6,13,Very High,No,N,Many
+3,Medium,2,8,Medium,No,N,Few
+2,High,4,7,High,No,N,Few
+0,Low,0,3,Medium,No,N,None
+0,High,5,12,Very High,No,Y,Many
+0,Low,1,0,Low,No,N,None
+0,Low,0,3,Low,No,N,None
+1,Low,0,1,Low,No,N,None
+2,Medium,1,8,Medium,No,N,Few
+3,High,3,7,High,No,N,Few
+3,Low,1,1,Low,Yes,Y,None
+2,Low,1,0,Low,No,N,None
+4,Medium,3,8,Low,No,Y,Few
+2,Low,0,2,Low,No,Y,None
+1,Low,1,1,Low,No,N,None
+0,Low,1,2,Low,No,N,None
+1,Low,1,2,Low,No,N,None
+2,Low,0,2,Low,No,N,None
+2,Low,1,1,Low,Yes,Y,None
+0,High,0,1,High,No,N,Many
+3,Low,0,0,Low,No,N,None
+1,Low,0,2,Low,Yes,Y,None
+2,Low,0,1,Low,No,N,None
+1,High,2,11,Very High,No,Y,Few
+1,Low,1,0,Low,Yes,Y,None
+3,Low,0,2,Low,No,Y,None
+2,Medium,0,0,Medium,No,Y,None
+1,Low,0,3,Low,No,N,None
+4,Very High,6,13,Very High,No,N,Many
+2,Low,0,0,Medium,No,N,None
+2,Low,1,1,Low,Yes,Y,None
+2,Low,0,2,Low,No,N,None
+0,Low,0,0,Low,Yes,Y,None
+2,Medium,1,8,Medium,No,N,Few
+1,Low,1,1,Low,No,N,None
+3,Medium,1,2,Low,No,N,None
+3,Low,1,2,Low,No,N,None
+2,Low,0,3,Low,Yes,Y,None
+2,Low,0,1,Low,Yes,Y,None
+1,Low,1,3,Low,Yes,Y,None
+2,Low,0,6,Low,No,Y,None
+3,Low,0,1,Medium,No,N,None
+0,Low,0,2,Low,No,N,None
+6,High,5,10,High,No,N,Many
+1,Low,0,2,Low,Yes,Y,None
+1,Low,0,3,Low,Yes,Y,None
+4,Medium,3,9,Medium,Yes,Y,Few
+4,Medium,3,9,Medium,Yes,Y,Few
+1,Low,0,2,Low,No,N,None
+1,Low,0,0,Medium,No,Y,None
+2,High,4,7,High,No,Y,Few
+2,Low,0,1,Low,No,Y,None
+1,Low,0,3,Low,No,N,None
+2,Low,0,1,Medium,No,Y,None
+0,Low,0,0,Low,No,N,None
+4,High,4,8,High,No,Y,Few
+0,Low,0,2,Low,Yes,Y,None
+2,Low,0,6,Low,No,Y,None
+8,Very High,9,18,Very High,No,Y,Many
+0,High,5,12,Very High,No,Y,Many
+0,High,2,6,Very High,No,Y,Few
+1,Low,0,2,Low,Yes,Y,None
+1,Low,0,2,Low,Yes,Y,None
+3,Medium,1,1,Low,Yes,Y,None
+1,Low,1,0,Low,No,N,None
+3,Very High,6,13,Very High,No,N,Many
+2,Low,0,2,Low,No,N,None
+0,Low,1,3,Low,Yes,Y,None
+6,High,5,10,High,No,N,Many
